@@ -1,2 +1,2 @@
-# .github
-Organization ReadME
+# ExpenseAL
+Free project
